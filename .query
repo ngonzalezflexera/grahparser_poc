@@ -1,0 +1,9 @@
+query {
+  applications {
+    id
+    name
+    product
+    version
+    publisher
+  }
+}
